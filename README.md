@@ -10,7 +10,7 @@ gridstack-angular is an Angular.js directive for the widget layout plugin gridst
 - [Demo](#demo)
 - [Requirements](#requirements)
 - [Changes](#changes)
-    - [0.0.5](#v005)
+    - [0.0.5](#005)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
