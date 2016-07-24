@@ -33,9 +33,8 @@
         $timeout(function() {
           scope.onItemAdded({item: item});
         });
-
         scope.$watch(function () { return $(element).attr('data-gs-id'); }, function (val) {
-            scope.gsId = val;
+            scope.gsItemId = val;
         });
         scope.$watch(function(){ return $(element).attr('data-gs-x'); }, function(val) {
           scope.gsItemX = val;

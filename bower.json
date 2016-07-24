@@ -1,13 +1,13 @@
 {
-  "name": "gridstack-angular",
+  "name": "gridstackangularimproved",
   "version": "0.5.0-dev",
-  "homepage": "https://github.com/kdietrich/gridstack-angular",
+  "homepage": "https://github.com/jvelezc/gridstack-angular",
   "authors": [
-    "Kevin Dietrich <hallo@kevin-dietrich.com>"
+    "Kevin Dietrich <hallo@kevin-dietrich.com> /JJVC"
   ],
   "description": "Angular Gridstack.js directive",
   "main": [
-    "dist/gridstack-angular.min.js"
+    "dist/gridstack-angular.js"
   ],
   "dependencies": {
     "angular": ">=1.3",
