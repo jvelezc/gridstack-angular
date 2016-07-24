@@ -4,7 +4,7 @@
   "description": "Angular Gridstack.js directive",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kdietrich/gridstack-angular.git"
+    "url": "git+https://github.com/jvelezc/gridstack-angular.git"
   },
   "devDependencies": {
     "gulp": "~3.9.0",
