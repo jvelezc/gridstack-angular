@@ -1,7 +1,7 @@
 {
   "name": "gridstackangularimproved",
   "version": "0.5.0-dev",
-  "description": "Angular Gridstack.js directive",
+  "description": "Angular Gridstack.js directive with more functionality than original library",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jvelezc/gridstack-angular.git"
