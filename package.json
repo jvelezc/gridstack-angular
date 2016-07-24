@@ -4,7 +4,7 @@
   "description": "Angular Gridstack.js directive with more functionality than original library",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jvelezc/gridstack-angular.git"
+    "url": "git+https://github.com/jvelezc/gridstackangularimproved.git"
   },
   "devDependencies": {
     "gulp": "~3.9.0",
@@ -17,7 +17,7 @@
   "author": "Kevin Dietrich / jjvc",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jvelezc/gridstack-angular/issues"
+    "url": "https://github.com/jvelezc/gridstackangularimproved/issues"
   },
-  "homepage": "https://github.com/jvelezc/gridstack-angular#readme"
+  "homepage": "https://github.com/jvelezc/gridstackangularimproved#readme"
 }
