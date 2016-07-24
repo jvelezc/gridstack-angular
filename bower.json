@@ -7,7 +7,7 @@
   ],
   "description": "Angular Gridstack.js directive",
   "main": [
-    "dist/gridstack-angular.min.js"
+    "dist/gridstack-angular.js"
   ],
   "dependencies": {
     "angular": ">=1.3",
