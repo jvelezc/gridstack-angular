@@ -34,7 +34,7 @@ bower install --save gridstackstackangularimproved
 
 ##Changes
 
-####v0.0.5
+####0.0.5
 
 ##License
 
