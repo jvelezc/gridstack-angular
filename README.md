@@ -1,4 +1,4 @@
-#gridstack-angular
+#gridstackangularimproved
 
 gridstack-angular is an Angular.js directive for the widget layout plugin gridstack.js. It offers basic functionality, feel free to extend it with your pull requests.
 
