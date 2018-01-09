@@ -2,17 +2,10 @@
   "name": "gridstackangularimproved",
   "version": "1.0.0",
   "description": "Angular Gridstack.js directive with more functionality than original library",
+  "main": "dist/gridstack-angular.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jvelezc/gridstackangularimproved.git"
-  },
-  "devDependencies": {
-    "gulp": "~3.9.0",
-    "gulp-header": "~1.7.1",
-    "gulp-clean": "~0.3.1",
-    "gulp-concat": "~2.6.0",
-    "gulp-jshint": "~1.11.2",
-    "gulp-uglify": "~1.4.2"
   },
   "author": "Kevin Dietrich / jjvc",
   "license": "MIT",

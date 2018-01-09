@@ -21,6 +21,7 @@ gridstack-angular is available on bower. This makes it super easy to install:
 
 ```
 bower install --save gridstackstackangularimproved
+npm install gridstackstackangularimproved
 ```
 
 ##Demo
